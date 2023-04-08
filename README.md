@@ -1,0 +1,1 @@
+# Proyecto realizado para empezar con c++, en este pequeño proyecto realice 2 juegos sencillo, uno de adivinar numeros en una determinada cantidad de intentos dependiendo de la difcultad seleccionada. El otro juego es elahorcado que todos conocemos.
